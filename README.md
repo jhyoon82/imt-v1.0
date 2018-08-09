@@ -1,4 +1,5 @@
-# Interacting Multiview Tracker, PAMI,  2016
+Ju Hong Yoon, Kuk-Jin Yoon, and Ming-Hsuan Yang, "Interacting Multiview Tracker," IEEE PAMI,  2016
+
 INSTALLING & RUNNING (MATLAB 64bit)
 1.	Unpack imt-v1.0.zip
 
